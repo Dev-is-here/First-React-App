@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/First-React-App/static/js/main.4c833c71.chunk.js",
+    "main.js.map": "/First-React-App/static/js/main.4c833c71.chunk.js.map",
+    "runtime-main.js": "/First-React-App/static/js/runtime-main.7a55a892.js",
+    "runtime-main.js.map": "/First-React-App/static/js/runtime-main.7a55a892.js.map",
+    "static/js/2.b0567fd0.chunk.js": "/First-React-App/static/js/2.b0567fd0.chunk.js",
+    "static/js/2.b0567fd0.chunk.js.map": "/First-React-App/static/js/2.b0567fd0.chunk.js.map",
+    "index.html": "/First-React-App/index.html",
+    "static/js/2.b0567fd0.chunk.js.LICENSE.txt": "/First-React-App/static/js/2.b0567fd0.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/First-React-App/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.35f4d399.svg": "/First-React-App/static/media/react-movie-logo.35f4d399.svg",
+    "static/media/search-icon.bb4c697f.svg": "/First-React-App/static/media/search-icon.bb4c697f.svg",
+    "static/media/tmdb_logo.e7029961.svg": "/First-React-App/static/media/tmdb_logo.e7029961.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a55a892.js",
+    "static/js/2.b0567fd0.chunk.js",
+    "static/js/main.4c833c71.chunk.js"
+  ]
+}
